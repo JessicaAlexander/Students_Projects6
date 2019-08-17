@@ -1,0 +1,7 @@
+﻿  BooksMain.cpp
+c:\users\jessica\source\repos\books\books\booksmain.cpp(25): warning C4101: 'authCount': unreferenced local variable
+c:\users\jessica\source\repos\books\books\booksmain.cpp(106): warning C4101: 'U': unreferenced local variable
+c:\users\jessica\source\repos\books\books\booksmain.cpp(106): warning C4101: 'E': unreferenced local variable
+c:\users\jessica\source\repos\books\books\booksmain.cpp(106): warning C4101: 'I': unreferenced local variable
+c:\users\jessica\source\repos\books\books\booksmain.cpp(106): warning C4101: 'T': unreferenced local variable
+  Books.vcxproj -> C:\Users\Jessica\source\repos\Books\Debug\Books.exe
